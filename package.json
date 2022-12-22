@@ -1,0 +1,50 @@
+{
+  "name": "bulls-minter",
+  "version": "1.0.0",
+  "description": "BULLS NFT BSC Collection, Part of BULLSCLUB Collections",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/material": "^5.11.1",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@uniswap/widgets": "^2.22.12",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "jotai-immer": "^0.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.3.0",
+    "run": "^1.4.0",
+    "sf-font": "^1.0.0",
+    "styled-components": "^5.3.0",
+    "walletlink": "^2.5.0",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.8.1",
+    "web3-eth-contract": "^1.5.2",
+    "web3modal": "^1.9.10"
+  },
+  "author": "Tamer",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+:root {
+  --primary: #efc55100;
+  --primary-text: #ffffff;
+  --third-color: rgba(241, 57, 57, 0.695);
+  --secondary: #1df4ffc0;
+  --fourth-color: #fab512c0;
+  --secondary-text: #fff;
+  --accent: #2f0101;
+  --accent-text: rgba(255, 255, 255, 0.75);
+  --phase-color: #13e151c6;
+}
+
+
+.nav-menu{
+  display: flex;
+  justify-content: center;
+  background: rgba(24, 0, 0, 0);
+  padding: 0.1rem 1rem;
+}
+
+.nav-items{
+  padding: 0.5rem 1rem;
+  list-style: none;
+  margin-right: 1rem;
+}
+
+.nav-items a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}

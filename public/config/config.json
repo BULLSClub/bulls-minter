@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x1326ddFa30cac96370fC1Bf3b297a5212B85817B",
+  "SCAN_LINK": "https://bscscan.com/address/0x1326ddFa30cac96370fC1Bf3b297a5212B85817B",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BSC",
+    "ID": 56
+  },
+  "NFT_NAME": "BULLS NFT COLLECTION",
+  "SYMBOL": "BUL",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 134000000000000000,
+  "DISPLAY_COST": 0.134,
+  "GAS_LIMIT": 400000,
+  "SHOW_BACKGROUND": true
+}
